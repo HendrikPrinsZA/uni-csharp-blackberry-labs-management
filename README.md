@@ -17,13 +17,13 @@ The Department of Informatics, in collaboration with E-skills and BlackBerry Aca
 
 ### Installation Instructions A (With Crystal Reports)
 1. Install crystal reports
-2. Run die sql "BBLABS"
-3. Run die sql "BBLABSFullInserts"
+2. Run the sql "BBLABS"
+3. Run the sql "BBLABSFullInserts"
 4. Login info: Username: "Admin" Pasw: "Admin"
 
 ### Installation Instructions B (Without Crystal Reports)
-1. Run die sql "BBLABS"
-2. Run die sql "BBLABSFullInserts"
+1. Run the sql "BBLABS"
+2. Run the sql "BBLABSFullInserts"
 3. Login info: Username: "Admin" Pasw: "Admin"
 
 ### System Requirements:
