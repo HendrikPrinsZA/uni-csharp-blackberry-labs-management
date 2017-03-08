@@ -15,6 +15,10 @@ The Department of Informatics, in collaboration with E-skills and BlackBerry Aca
 - Data Structures
 - Input Validation
 
+### System Requirements:
+- Microsoft Visual Studio
+- Microsoft SQL Server Management Studio
+
 ### Installation Instructions A (With Crystal Reports)
 1. Install crystal reports
 2. Run the sql "BBLABS"
@@ -26,9 +30,6 @@ The Department of Informatics, in collaboration with E-skills and BlackBerry Aca
 2. Run the sql "BBLABSFullInserts"
 3. Login info: Username: "Admin" Pasw: "Admin"
 
-### System Requirements:
-- Microsoft Visual Studio
-- Microsoft SQL Server Management Studio
 
 ### Docs
 - [Specification](specification.pdf)
